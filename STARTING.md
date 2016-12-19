@@ -366,7 +366,7 @@ presto
 CASE IN POINT
 Introduction to Probability Models by Sheldon M. Ross
 
----
+```
 
 ### 9.23
 
